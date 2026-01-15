@@ -116,12 +116,8 @@ While watching in MPV:
 
 | Key | Action |
 |-----|--------|
-| `Space` | Pause/Resume |
 | `>` or `Media Next` | Next episode |
 | `<` or `Media Previous` | Previous episode |
-| `←` / `→` | Seek backward/forward |
-| `V` | Cycle subtitles |
-| `Q` | Stop playback |
 
 ---
 
