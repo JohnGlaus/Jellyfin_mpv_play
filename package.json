@@ -1,0 +1,19 @@
+{
+  "name": "jellyfin-mpv-shim",
+  "version": "1.0.0",
+  "description": "Play Jellyfin content in MPV directly from your browser",
+  "main": "shim.js",
+  "scripts": {
+    "start": "node shim.js"
+  },
+  "keywords": ["jellyfin", "mpv", "media", "player", "streaming", "shim"],
+  "author": "JohnGlaus",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "ws": "^8.18.3"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

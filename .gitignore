@@ -1,0 +1,9 @@
+node_modules/
+config.js
+data/
+*.log
+BK/
+jellyfin_token_*.json
+playback_positions_*.json
+*.bat
+*.vbs
