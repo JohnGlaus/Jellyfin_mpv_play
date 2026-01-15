@@ -85,18 +85,15 @@ Run `npm start` in your project folder
 Open Jellyfin in your web browser
 
 ### Step 3: Choose your device
-### Step 3: Choose your device
-Select your device from the list (the name you set in `config.js`)
+<p align="center">
+  <img src="images/1.png" width="200">
+  <img src="images/2.png" width="200">
+</p>
 
-<div align="center">
-  <img src="images/1.png" alt="Go this icon" width="200" style="margin: 10px;">
-  <img src="images/2.png" alt="Select Device" width="200" style="margin: 10px;">
-</div>
-<div align="center">
-  <img src="images/3.png" alt="Select again" width="200" style="margin: 10px;">
-  <img src="images/4.png" alt="Set Default Device" width="200" style="margin: 10px;">
-</div>
-_Your device will appear in the list_
+<p align="center">
+  <img src="images/3.png" width="200">
+  <img src="images/4.png" width="200">
+</p>
 
 ### Step 4: Select content
 Choose any movie or episode
