@@ -56,7 +56,7 @@ module.exports = {
     password: 'your_password',                // Your Jellyfin password
     mpvPath: 'C:\\MPV\\mpv.exe',             // Path to MPV
     deviceName: 'Living-Room-PC',            // Any name you want
-    deviceId: '',                            // Leave empty
+    deviceId: 'Room-PC',                            // Any name, but different from the one you put in deviceName
     ipcSocketPath: '\\\\.\\pipe\\mpv-ipc'   // Leave as-is
 };
 ```

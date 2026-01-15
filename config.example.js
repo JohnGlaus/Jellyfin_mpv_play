@@ -16,8 +16,8 @@ module.exports = {
     // Device name (will appear in Jellyfin's device list)
     deviceName: 'My-MPV-Player',
     
-    // Optional: Unique device ID (leave empty to auto-generate)
-    deviceId: '',
+    // Any name, but different from the one you put in deviceName
+    deviceId: 'My-MPV-room',
     
     // Optional: IPC socket path (leave as-is unless you know what you're doing)
     ipcSocketPath: '\\\\.\\pipe\\mpv-ipc'
