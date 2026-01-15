@@ -219,7 +219,9 @@ MIT License - Feel free to use and modify!
 ## ❓ FAQ
 
 **Q: Does this work on Linux/Mac?**  
-A: Yes! Just change the paths in `config.js` (use `/` instead of `\\`)
+A: I've only tested it on Windows 11 and it works great. I suppose that since it is node.js it could work in inux and perhaps also in Mac. If someone tries it successfully, let me know.
+
+Just change the paths in `config.js` (use `/` instead of `\\`)
 
 **Q: Can I use this over the internet?**  
 A: Yes, if your Jellyfin server is accessible, but LAN is recommended
