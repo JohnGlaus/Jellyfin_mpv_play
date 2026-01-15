@@ -85,6 +85,7 @@ Run `npm start` in your project folder
 Open Jellyfin in your web browser
 
 ### Step 3: Choose your device
+
 <p align="center">
   <img src="images/1.png" width="200">
   <img src="images/2.png" width="200">
@@ -94,6 +95,9 @@ Open Jellyfin in your web browser
   <img src="images/3.png" width="200">
   <img src="images/4.png" width="200">
 </p>
+
+_Your device will appear in the list_
+
 
 ### Step 4: Select content
 Choose any movie or episode
