@@ -102,13 +102,7 @@ Click the cast icon (📺) or "Play on" button
 ![Play On Button](images/play-on-button.png)
 _Click the "Play on" button in Jellyfin_
 
-### Step 6: Choose your device
-Select your device from the list (the name you set in `config.js`)
-
-![Select Device](images/select-device.png)
-_Your device will appear in the list_
-
-### Step 7: Enjoy!
+### Step 6: Enjoy!
 MPV will open automatically and start playing 🎉
 
 ![MPV Playing](images/mpv-playing.png)
