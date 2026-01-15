@@ -1,5 +1,5 @@
 {
-  "name": "jellyfin-mpv-shim",
+  "name": "jellyfin-mpv-play",
   "version": "1.0.0",
   "description": "Play Jellyfin content in MPV directly from your browser",
   "main": "shim.js",
