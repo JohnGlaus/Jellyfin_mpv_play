@@ -878,6 +878,6 @@ async function main() {
 }
 
 main().catch(error => {
-    console.error('❌ Fatal error:', error);
+    console.error('❌ Fatal error!:', error);
     process.exit(1);
 });
