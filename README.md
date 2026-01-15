@@ -84,19 +84,13 @@ Run `npm start` in your project folder
 ### Step 2: Open Jellyfin
 Open Jellyfin in your web browser
 
-### Step 3: Choose your device
+![Step 1](images/1.png)
 
-<p align="center">
-  <img src="images/1.png" width="200">
-  <img src="images/2.png" width="200">
-</p>
+![Step 2](images/2.png)
 
-<p align="center">
-  <img src="images/3.png" width="200">
-  <img src="images/4.png" width="200">
-</p>
+![Step 3](images/3.png)
 
-_Your device will appear in the list_
+![Step 4](images/4.png)
 
 
 ### Step 4: Select content
